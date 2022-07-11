@@ -1,6 +1,9 @@
 ### Olá, meu nome é Derek
 
 - ✌️ Tenho 19 anos
-- 🔭 Estou cursando ciência de dados na Universidade Federal do Ceará (UFC)
-- 🌱 Atualmente estou aprendendo JAVA e PYTHON 
-- 😄 Pronouns: Ele/Dele
+- 🎾 Atleta profissional de tênis
+- 🔭 Cursando ciência de dados na Universidade Federal do Ceará (UFC)
+- 🌱 Aprendendo JAVA e PYTHON 
+- 😄 Pronomes: Ele/Dele
+
+##
